@@ -71,10 +71,6 @@ hr.star-primary:after {
   background-size: cover;
   color: white;
 }
-.jumbo .container {
-  padding-top: 100px;
-  padding-bottom: 50px;
-}
 .jumbo img {
   display: block;
   margin: 0 auto 20px;
@@ -84,6 +80,11 @@ hr.star-primary:after {
 }
 .jumbo .profile-pic {
   border-radius: 100%;
+}
+.jumbo p {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
 }
 .jumbo .intro-text .name {
   display: block;
@@ -97,8 +98,15 @@ hr.star-primary:after {
   font-weight: 300;
 }
 #portfolio,
-.contacter {
+.contacter,
+#freelancing {
   background: white;
+}
+#freelancing .container {
+  text-align: center;
+}
+#freelancing .container a {
+  font-size: 2em;
 }
 .bg {
   background: url('../img/typewriter.jpeg') no-repeat center center fixed;
@@ -242,9 +250,12 @@ section h2 {
   margin: 0;
   font-size: 3em;
 }
-section.success {
+section.outsourcing {
   background: #85A0A6;
   color: white;
+}
+section.outsourcing a {
+  color: #555555;
 }
 @media (max-width: 767px) {
   section {

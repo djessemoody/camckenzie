@@ -21,6 +21,8 @@ p.xsmall {
 
 
 
+
+
 a,
 a:hover,
 a:focus,
@@ -85,10 +87,7 @@ hr.star-primary:after {
 	background: url('../img/space.jpeg')no-repeat center center fixed;
     background-size: cover;
 	color: white;
-	.container {
-		padding-top: 100px;
-		padding-bottom: 50px;
-	}
+	
 	img {
 		display: block;
 		margin: 0 auto 20px;
@@ -99,6 +98,11 @@ hr.star-primary:after {
     .profile-pic {
         border-radius: 100%;
     
+    }
+    p {
+        text-align: left;
+        margin-left: auto;;
+        margin-right: auto;
     }
     
     
@@ -119,8 +123,17 @@ hr.star-primary:after {
 	}
 }
 
-#portfolio, .contacter {
+#portfolio, .contacter,#freelancing {
     background: white;
+    
+}
+#freelancing {
+    .container{
+        a {
+            font-size: 2em;
+        }
+        text-align: center;
+    }
     
 }
 
@@ -296,9 +309,12 @@ section {
     }
 }
 
-section.success {
+section.outsourcing {
 	background: @theme-success;
 	color: white;
+    a {
+        color: @gray;
+    }
 }
 
 @media(max-width:767px) {
