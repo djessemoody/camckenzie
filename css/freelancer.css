@@ -294,6 +294,18 @@ section.outsourcing {
 section.outsourcing a {
   color: #555555;
 }
+@media (max-width: 500px) {
+  section.outsourcing {
+    background: #85A0A6;
+    color: white;
+  }
+  section.outsourcing a {
+    color: #555555;
+  }
+  section.outsourcing h2 {
+    font-size: 1.5em;
+  }
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
