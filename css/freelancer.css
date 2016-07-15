@@ -142,8 +142,11 @@ hr.star-primary:after {
 #freelancing .container {
   text-align: center;
 }
-#freelancing .container a {
+#freelancing .container a.contactlink {
   font-size: 2em;
+}
+#freelancing .container p.left {
+  text-align: left;
 }
 .bg {
   background: url('../img/typewriter.jpeg') no-repeat center center fixed;
@@ -293,6 +296,9 @@ section.outsourcing {
 }
 section.outsourcing a {
   color: #555555;
+}
+section.outsourcing h3 {
+  text-align: center;
 }
 @media (max-width: 500px) {
   section.outsourcing {
