@@ -5,6 +5,9 @@ body {
 p {
   font-size: 20px;
 }
+.fa-8x {
+  font-size: 8em;
+}
 p.small {
   font-size: 16px;
 }
