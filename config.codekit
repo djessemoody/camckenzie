@@ -40,6 +40,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/img\/about.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252655,
+		"inputAbbreviatedPath": "\/img\/about.jpg",
+		"outputAbbreviatedPath": "\/img\/about.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/chrisprof.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -102,6 +113,17 @@
 		"initialSize": 25896,
 		"inputAbbreviatedPath": "\/img\/portfolio\/game.png",
 		"outputAbbreviatedPath": "\/img\/portfolio\/game.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/HLM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 492426,
+		"inputAbbreviatedPath": "\/img\/portfolio\/HLM.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/HLM.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -337,6 +359,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
+		},
+	"\/README.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/README.md": {
 		"criticStyle": 0,
@@ -946,7 +977,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "David Moody III",
+"lastSavedByUser": "David Jesse Moody III",
 "manualImportLinks": {
 	},
 "projectAttributes": {
