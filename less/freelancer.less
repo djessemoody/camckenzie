@@ -10,6 +10,8 @@ p {
 	font-size: 20px;
 }
 
+
+  
 .modal-body p{
     
     text-align: left;
@@ -33,6 +35,48 @@ p.xsmall {
     
 }
 
+
+.jumbo-about {
+	text-align: center;
+	background: url('../img/space.jpeg')no-repeat center center fixed;
+    background-size: cover;
+	color: white;
+	
+	img {
+        
+		display: block;
+		margin: 0 auto 20px;
+        border-radius: 10% 5%;
+        width: 100%;
+        
+	}
+    .profile-pic {
+        border-radius: 100%;
+    
+    }
+    p {
+        text-align: left;
+        margin-left: auto;;
+        margin-right: auto;
+    }
+    
+    
+    
+    
+	.intro-text {
+		.name {
+			display: block;
+			font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			text-transform: uppercase;
+			font-weight: 700;
+			font-size: 2em;
+		}
+		.skills {
+			font-size: 1.25em;
+			font-weight: 300;
+		}
+	}
+}
 
 
 @media (max-width: 991px) {
@@ -64,6 +108,8 @@ p.xsmall {
         float: none;
         margin: 15px 0;
     }
+    
+    
     /* since 3.1.0 */
     .navbar-collapse.collapse.in { 
         display: block!important;
@@ -259,6 +305,8 @@ header {
 			}
 		}
 	}
+    
+    
 }
 
 
@@ -417,6 +465,20 @@ section.outsourcing {
 	section.first {
 		padding-top: 75px;
 	}
+    
+    
+}
+
+@media(min-width:400px) {
+    .jumbo-about img {
+        width: 50%;
+    }
+    
+}
+@media(min-width:1200px) {
+    .jumbo-about img {
+        width: 100%;
+    }
 }
 
 #portfolio {

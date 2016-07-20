@@ -20,6 +20,37 @@ p.small {
 p.xsmall {
   font-size: 12px;
 }
+.jumbo-about {
+  text-align: center;
+  background: url('../img/space.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+.jumbo-about img {
+  display: block;
+  margin: 0 auto 20px;
+  border-radius: 10% 5%;
+  width: 100%;
+}
+.jumbo-about .profile-pic {
+  border-radius: 100%;
+}
+.jumbo-about p {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jumbo-about .intro-text .name {
+  display: block;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2em;
+}
+.jumbo-about .intro-text .skills {
+  font-size: 1.25em;
+  font-weight: 300;
+}
 @media (max-width: 991px) {
   .navbar-header {
     float: none;
@@ -342,6 +373,16 @@ section.outsourcing h3 {
   }
   section.first {
     padding-top: 75px;
+  }
+}
+@media (min-width: 400px) {
+  .jumbo-about img {
+    width: 50%;
+  }
+}
+@media (min-width: 1200px) {
+  .jumbo-about img {
+    width: 100%;
   }
 }
 #portfolio .portfolio-item {
