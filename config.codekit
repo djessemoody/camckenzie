@@ -62,6 +62,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/favicon-96x96.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5655,
+		"inputAbbreviatedPath": "\/img\/favicon-96x96.png",
+		"outputAbbreviatedPath": "\/img\/favicon-96x96.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/cabin.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -128,6 +139,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/NonProf.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 443110,
+		"inputAbbreviatedPath": "\/img\/portfolio\/NonProf.jpeg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/NonProf.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/Nonprofit image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 738127,
+		"inputAbbreviatedPath": "\/img\/portfolio\/Nonprofit image.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/Nonprofit image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/safe.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -135,6 +168,28 @@
 		"initialSize": 19240,
 		"inputAbbreviatedPath": "\/img\/portfolio\/safe.png",
 		"outputAbbreviatedPath": "\/img\/portfolio\/safe.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/Small business image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 520274,
+		"inputAbbreviatedPath": "\/img\/portfolio\/Small business image.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/Small business image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/SmallBiz.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 339917,
+		"inputAbbreviatedPath": "\/img\/portfolio\/SmallBiz.jpeg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/SmallBiz.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -193,6 +248,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/js\/contact_me.js": {
 		"fileType": 64,
@@ -418,6 +482,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/test\/hl.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/hl.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/test\/img\/about.jpg": {
 		"fileType": 16384,
@@ -1940,7 +2013,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "David Jesse Moody III",
+"lastSavedByUser": "David Moody III",
 "manualImportLinks": {
 	},
 "projectAttributes": {
